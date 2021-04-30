@@ -1,4 +1,4 @@
-# cuanki-sales-app
+# cuanki-sales-report
 
 ## Project setup
 ```
